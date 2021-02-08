@@ -1,5 +1,7 @@
 # Derekh.tech
 
+![actions-badge](https://github.com/sashadereh/derekh.tech/workflows/Deploy%20website/badge.svg?branch=master)
+
 ## About
 My personal [website](https://derekh.tech).
 
